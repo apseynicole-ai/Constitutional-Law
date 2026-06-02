@@ -1,0 +1,10 @@
+.DS_Store
+.codex/
+baccllb-study-pro-upgraded.zip
+baccllb-study-pro-upgraded/
+package-lock.json
+.venv/
+__pycache__/
+*.pyc
+*.tmp
+exports/temp/
