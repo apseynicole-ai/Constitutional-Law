@@ -1,0 +1,329 @@
+﻿Con law a1s1 feedback transcripts: 
+
+
+CON LAW Q1 FEEDBACK - Test Review and Discussion: Constitutional History and Legal Principles
+Assessment Feedback: General Instructions and Skill Development
+* Importance of Following Instructions: The lecturer emphasized that failure to read instructions led to significant mark deductions. Specifically, for true/false questions, students must provide a reason; without a correct reason, no marks are awarded even if the "true/flase" selection is correct.
+   * Case Study: In Questions $$6$$ and $$7$$, several students correctly identified the answers as "true" but received zero marks because they omitted the required explanation.
+* Guidelines for Mark Allocation: Students are advised to use mark allocation as a guide for the length and depth of their responses.
+   * Example: For a $$2$$-mark question, a student should provide a targeted, concise answer. Writing pages of information for a low-mark question is inefficient and unnecessary.
+* Avoidance of "Spaghetti Answers": This term refers to the practice of identifying a broad theme and "throwing everything" known about it at the question without structure or relevance.
+   * Required Skill: Students must practice critical reading to identify exactly what is being asked and provide concise, accurate responses that highlight only the relevant information.
+* Objective of Legal Writing: The goal is not to prove that one "knows everything" but to demonstrate an understanding of the material through clear, structured, and applied knowledge.
+Question $$1$$: The 1983 Tri-Cameral Constitution and Parliamentary Sovereignty
+* Correct Answer: False.
+* Primary Reasoning Options:
+   * Constitutional Structure: The Tri-Cameral Constitution ($$1983$$) divided the parliament into three separate houses. This was intended to provide a "semblance of better equality," though it did not achieve true equality.
+   * Naming of Houses: Marks were awarded for correctly identifying the specific houses within this system.
+   * Parliamentary Sovereignty: Alternatively, the answer could be focused on the shift in sovereignty. Parliamentary sovereignty was officially done away with by the interim Constitution of $$1993$$ or the final Constitution of $$1996$$.
+* Performance: Most students successfully earned marks on this question.
+Question $$2$$: The 1910 Union Constitution and Pre-existing Inequality
+* Core Concept: The question investigated whether the $$1910$$ Constitution created racial inequality for the first time or if it pre-dated the Union.
+* Historical Context: The response required an acknowledgment of South Africa's colonial and settler history involving the Dutch, the British, and indigenous groups such as the Khoisan.
+* Formalization of Inequality: The $$1910$$ Constitution did not create inequality; rather, it formalized the existing racial inequalities for the first time within a unified state framework.
+* Scoring Nuance: While most people received full marks ($$2$$ marks), some received $$1.5$$ marks if their wording was too vague or lacked technical accuracy.
+Question $$3$$: The Westminster System and the South Africa Act
+* Correct Answer: False.
+* The Westminster System Analysis: The "Westminster system" as established by the South Africa Act (the Union Constitution) did not treat all citizens equally. It was a system that favored specific demographics:
+   * Gender and Wealth: It primarily favored wealthy white males.
+   * Legislative Exclusion: It marginalized Black and African voices by excluding them from the legislature.
+* The "Cape Franchise" Exception: There was a small, imperfect franchise for Colored voters in the Cape, which served as a clue to the lack of universal equality.
+* Key Skills: Students were encouraged to look for "clues" in the terminology (e.g., "Westminster system") to guide their technical arguments.
+Question $$4$$: Petty Apartheid vs. Grand Apartheid
+* Correct Answer: False.
+* Definition of Petty Apartheid: Day-to-day segregation that established racial hierarchies between different groups.
+   * Legislation Example: The Separate Amenities Act.
+* Definition of Grand Apartheid: Large-scale, structural, and territorial segregation. It involved social engineering, determining where people were allowed to live and which territories they "belonged" to.
+* Scoring Criteria: Full marks were awarded based on the accuracy of the description. While mentioning legislation was helpful, marks were deducted if the legislation cited was incorrect or confused between the two types of apartheid.
+Question $$5$$: Legal Status of the Freedom Charter
+* Correct Answer: False.
+* Legal Standing: The Freedom Charter is not a binding law.
+* Authorship and Origin: It was an ideological document drafted in $$1955$$ by the "Congress of the People."
+   * Common Misconception: Many students incorrectly stated it was drafted solely by the ANC. In reality, the Congress of the People was a broad collection of various activists.
+* Role in Modern Law:
+   * Constitutional Influence: The Charter influenced the Preamble and the Bill of Rights in the current Constitution.
+   * Interpretive Tool: While sometimes described as an interpretive document, its use in court for interpretation is very limited and foundational rather than frequent.
+Question $$6$$: Constitutional Supremacy and Amendments
+* Correct Answer: True.
+* Legal Basis: The Constitution is the supreme law of the land, as explicitly stated in Section $$1$$(c).
+* Misconception Regarding Amendments: Some students argued it was not the same law because it has been amended multiple times (over $$18$$ times).
+   * Refutation: Amendments do not create a "new" or "fundamentally different" document. It remains the same Constitution of $$1996$$ regardless of how many additions or changes are made to the text.
+Question $$7$$: The Doctrine of Separation of Powers
+* Correct Answer: True.
+* Functional Purpose: The doctrine establishes checks and balances between the branches of government to prevent the centralization of authority.
+* Requirements for Full Marks:
+   * Name the branches of government (Executive, Legislative, and Judicial).
+   * Explain the concept of decentralizing government authority.
+* Performance Overview: Scores for this section typically ranged between $$1.5$$ and $$2$$ marks.
+Summary of Section Performance
+* General Scores: Most students scored between $$10$$ and $$14$$ marks for this segment.
+* Overall Assessment: The lecturer noted that while the class demonstrates a solid understanding of the theoretical work, the primary challenge remains the application of this work in longer, more complex questions.
+
+
+
+
+
+
+Overview of Question 2 Assessment
+* Conceptual Focus: Question $$2$$ primarily addresses material covered in the first two lectures of the course (Lecture $$1$$ and Lecture $$2$$).
+* Nature of the Question: This section was designed as a "rote, learn, and answer" assessment. High performance was directly correlated with having studied the lecture slides and completed the prescribed readings.
+* General Performance Observations:
+   * Students who attended tutorials, came to class, and performed the readings generally did very well.
+   * Issues arose primarily from a failure to read the specific wording of the questions or a lack of engagement with the course material.
+General Purpose of a Constitution
+* Scope of the Question: The question asked for the "general purpose" of a constitution as a concept. It did not ask for details regarding the specific South African Constitution.
+* Definition and Function: A constitution is defined as the fundamental law of a state. Its primary functions include:
+   * Outlining Structures: Establishing the framework and structure of the government.
+   * Defining and Limiting Power: Clearly articulating the powers of government branches and setting boundaries on those powers.
+   * Guaranteeing Rights: Protecting and ensuring the fundamental rights of citizens.
+   * Governing Interactions: Regulating the relationships between the state and various institutions, as well as the relationship between the state and its citizens.
+* Common Errors and Mark Deductions:
+   * Entity Specificity: Many students lost marks by referring specifically to the South African Constitution. Because the question asked for a general definition, focusing on a single nation's document indicated a misunderstanding of the prompt.
+   * Partial Credit: Some marks were awarded to students who identified correct general principles while mistakenly framing them within the South African context, though full marks were not possible for these answers.
+Classifications and Types of Constitutions
+* Categorization Frames: The lecture material (Lecture $$2$$) and readings categorize constitutions based on their form, amendment process, power distribution, and legal authority.
+* Mark Allocation and Depth: The question required two types (categories) to be explained for a total of $$4$$ marks. Simply listing names without explanations did not qualify for full marks. Full marks required a definition and relevant examples for each side of the classification.
+Form: Codified vs. Uncodified
+* Codified Constitutions:
+   * Definition: A written constitution where the fundamental laws are contained within a single, formal document.
+   * Examples: South Africa, USA, and France.
+* Uncodified Constitutions:
+   * Definition: Also referred to as an unwritten constitution. The constitutional laws are not found in one document but are spread across various legislations, customs, and common law.
+   * Examples: United Kingdom (UK) and New Zealand.
+Amendment Process: Rigid vs. Flexible
+* Rigid Constitutions:
+   * Definition: A constitution that requires special, often difficult, procedures to be amended.
+   * Correction of Misconception: "Rigid" does not mean the constitution cannot be amended at all; it simply means the process is more rigorous than that of ordinary legislation.
+   * Examples: USA and South Africa.
+* Flexible Constitutions:
+   * Definition: A constitution that can be amended through the same process used for ordinary legislation or by ordinary legislation itself.
+   * Procedural Similarity: There is no special legal distinction between the process for natural law-making and constitutional amendment.
+Other Categories
+* Power Structures: Constitutions can be classified as Unitary or Federal based on how power is distributed geographically and institutionally.
+* Application/Status: Constitutions can be classified as Supreme or Subordinate based on their legal authority relative to other laws.
+Critical Feedback and Study Requirements
+* Reading the Question: A significant cause of mark loss was failing to follow the prompt's instruction to provide two types from one form (e.g., explaining both Rigid and Flexible for the category of amendment processes).
+* Importance of Prescribed Readings: The educator emphasized that items found in the readings but not extensively detailed in the verbal lecture were explicitly tested. These reading materials will be included in future assessments.
+* Tutorial Attendance: Discrepancies in performance were noted between students who attended tutorials/classes and those who did not, particularly regarding the ability to provide examples and nuanced definitions.
+Use Website In a Screen-Reader Mode
+Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New window
+Skip to Content↵ENTER
+Detailed Feedback and Study Guide for Constitutional Law Question Three Notes | Knowt
+ knowt 
+
+HomeCON LAW A1 Q3 FEEDBACK - Detailed Feedback and Study Guide for Constitutional Law Question Three
+0s ago
+Assessment Overview and General Performance
+* The lecturer expressed overall satisfaction with the responses to Question Three, noting that students appeared to have completed the required readings and attended the revision lecture delivered at the conclusion of the first term.
+* Successful students demonstrated clear engagement with the case law and theoretical frameworks discussed throughout the course.
+* Students who struggled with the question likely failed to complete the assigned readings, missed class sessions, or lacked a fundamental understanding of the material.
+* Recommended remediation for poor performance includes:
+   * Dedicating more time to studying the course material.
+   * Scheduling a formal consultation with the instructor to discuss specific areas of misunderstanding.
+Grading Rubric and Mark Allocation
+* Question Three was a
+* 7
+* 7
+* $$7$$
+* mark question.
+* The marks were distributed based on the following breakdown:
+   * Case Explanations: A total of
+   * 6
+   * 6
+   * $$6$$
+   * marks were available for the discussion of specific legal cases. Specifically, each of the three cases (Harris 1, Harris 2, and Collins) was awarded up to
+   * 2
+   * 2
+   * $$2$$
+   * marks.
+   * Evaluation Criteria for Cases: Marks were awarded for accurately explaining the facts, identifying the key legal principles, presenting coherent arguments, and providing relevant supplementary comments.
+   * Impression and Thematic Discussion:
+   * 1
+   * 1
+   * $$1$$
+   * mark was allocated as an "impression mark" or for the quality of the discussion regarding the limited role of judicial review in the context of the answer.
+* Interpreting Results:
+   * A score of
+   * 5
+   * 5
+   * $$5$$
+   * or
+   * 6
+   * 6
+   * $$6$$
+   * indicates that the student understood the content well but may have missed a "through line" or a specific key principle that connects the various parts of the legal history.
+   * Students were advised not to over-analyze individual "ticks" on the page but rather to focus on the overall impression mark and the total score awarded.
+Historical and Legal Context: The 1950s and Judicial Review
+* The question required an exhaustive discussion of the limited nature of judicial review during the
+* 1950s
+* 1950s
+* $$1950s$$
+* .
+* Key thematic elements for the discussion included:
+   * Parliamentary Sovereignty: The overarching doctrine that defined the relationship between the legislature and the judiciary during this era.
+   * Subordination of the Courts: How the judiciary was positioned relative to the legislative branch.
+   * Scope of Review: The inability of the courts to review the substance of legislation, focusing instead on limited procedural aspects.
+Detailed Case Law Analysis
+Harris 1 and Harris 2
+* Harris 1: Students were expected to outline the facts and findings and how they relate to the constitutional crisis of the time.
+* Harris 2: This case dealt specifically with the High Court of Parliament Act.
+* Vital Discussion Points for Harris 2:
+   * The principle of Separation of Powers.
+   * The concept of Judicial Independence.
+* Common Error: A significant number of students incorrectly conflated the facts of Harris 2 with those of the Collins case.
+Collins Case
+* The Collins case must be distinguished from Harris 2 by its specific facts.
+* Key Facts of Collins:
+   * The enlargement of the Senate by the government.
+   * The government followed all necessary formal procedures for this enlargement.
+   * The court's finding that it could do nothing because the procedural requirements had been met, despite the underlying intent.
+Critical Warnings on Study Habits and Source Material
+* The instructor identified a concern regarding the use of "bought or borrowed notes" circulating among the student body.
+* These external notes are reportedly incorrect in their summation of case law, particularly regarding the confusion between Harris 2 and Collins.
+* Students are warned that verbatim reliance on incorrect external summaries often leads to a failure to grasp the correct findings and facts of each case.
+* Recommendation: Students should prioritize taking their own detailed notes to ensure a deep understanding of the course content and the nuances of the historical discussions.
+* Accurate note-taking is essential for maintaining the correct facts for each case, which is a prerequisite for achieving high marks in the assessment.
+Transcript
+Download
+0:00
+Okay. Question three. For the most part, I was pretty happy with this question. It was clear that you guys have done the readings, that you've done the the you did come to the revision lecture at the end of first term and that you have looked at the cases. So I was I was pretty happy.
+0:19
+Most people did very well. Those of you who didn't, it was clear that maybe you didn't understand or you didn't do the readings or come to class. And so the only remedy really is a little more studying or perhaps a consultation to come and discuss why you're not understanding the work. So this is a seven mark question. I'm looking for you to discuss the limited judicial review of the nineteen fifties, right, the parliamentary sovereignty, etcetera, etcetera.
+0:53
+And then we're looking at Harris one, two, and Collins to explain it. And so you got marks both for explaining the cases and their key principles, but also how you set out the case, the your arguments, and the other comments that you would have made. So each case got two marks awarded to it, and then you got one mark for your impression mark and or your discussion about the limited role of judicial review. It really depends on how you answered. Here, I want you guys to not take too much cognizance of the ticks on your actual page, but to just look at your your overall impression mark.
+1:38
+Right? And so if you if you got between five and six, it means you did pretty well. You understood the content, but you were missing maybe a through line or a key principle here or there or perhaps something that brings the whole thing together, like a discussion about subordination of of courts or not being able to review the substance. These are just a few things that come to mind. It really depends on your own answer.
+2:08
+I'm not gonna go through this in super detail because I have done it in the review sessions before, and, of course, it's all in the readings. But I do wanna highlight one or two things that are concerning me, and that's I think there might be some bought or borrowed notes that are going around which are incorrect in their summation, right, of the cases, particularly referring to Harris two. There was a large chunk of students who, for some reason, referred to Harris two as the case in which the senate was enlarged and that they followed all the procedures, and so the court could do nothing. We, of course, know that that is the facts of Collins. Right?
+2:58
+Harris too referred to the issue of the High Court of Parliament Act. Right? And I was looking for a discussion of separation of powers and the judicial independence discussion with Harris too. And so just make sure that you do make sure you have the correct facts and the correct findings for each case. Right?
+3:23
+It helps to do your own note taking to make sure that you understand the course and the and the discussions. Okay?
+
+
+Use Website In a Screen-Reader Mode
+Accessibility Screen-Reader Guide, Feedback, and Issue Reporting | New window
+Skip to Content↵ENTER
+The Two-Stage Constitutional Process and Democratic Transition in South Africa Notes | Knowt
+ knowt 
+
+HomeCON LAW A1S2 Q4 FEEDBACK - The Two-Stage Constitutional Process and Democratic Transition in South Africa
+0s ago
+Core Focus: The Two-Stage Transition to Democracy
+* The primary objective of this topic is to understand the two-stage constitutional process that facilitated South Africa's move from the apartheid regime to a democratic state.
+* This process was essentially a compromise designed to ensure stability and legitimacy during the transition.
+* A comprehensive answer involves not only recounting historical facts but also demonstrating coherent argumentation, a logical through-line, and the ability to explain opinions concisely without repetitive or "spaghetti" answering.
+* While related historical events like the various "minutes," CODESA
+* 1
+* 1
+* $$1$$
+* (Convention for a Democratic South Africa), CODESA
+* 2
+* 2
+* $$2$$
+* , or the Multi-Party Negotiation Forum are relevant, they should not overshadow the specific mechanisms of the two-stage process itself.
+Stage One: The Interim Constitution of
+1993
+1993
+$$1993$$
+* Drafting Body: The Interim Constitution was drafted by an unelected body, specifically the Multi-Party Negotiation Forum.
+* Historical Context: The drafting took place within the legal context and constraints of the existing
+* 1983
+* 1983
+* $$1983$$
+* Constitution.
+* Nature and Purpose:
+   * It was designed as a transitional document and a temporary framework for governance.
+   * It served as a "bridge" between the old apartheid system and the new democratic order.
+   * It became legally binding after the
+   * 1994
+   * 1994
+   * $$1994$$
+   * elections.
+* Key Transitions and Provisions:
+   * It established the framework for the first democratic elections in South Africa.
+   * It facilitated the move from the old system of parliamentary sovereignty to a new system of constitutional supremacy.
+   * It provided for the appointment of a newly established Constitutional Court.
+   * It outlined a set of guiding principles, specifically the
+   * 34
+   * 34
+   * $$34$$
+   * Constitutional Principles located in Schedule
+   * 4
+   * 4
+   * $$4$$
+   * of the Interim Constitution, which were to be mandatory for the final document.
+Stage Two: The Final Constitution of
+1996
+1996
+$$1996$$
+* Drafting Body: The final constitution was drafted by the Constitutional Assembly, a democratically elected body.
+* Composition: The Constitutional Assembly was composed of the members of the National Assembly.
+* Legitimacy: The fact that the drafting body was democratically elected was intended to bring domestic and international legitimacy to the final document.
+* Timeline: The Constitutional Assembly was given a timeframe of exactly
+* 2
+* 2
+* $$2$$
+* years to complete the draft of the final constitution.
+* Drafting Constraints: The drafting process was not arbitrary; the document had to strictly adhere to the
+* 34
+* 34
+* $$34$$
+* Constitutional Principles established in Schedule
+* 4
+* 4
+* $$4$$
+* of the Interim Constitution.
+The Certification Process by the Constitutional Court
+* Mandatory Certification: The newly established Constitutional Court was tasked with certifying that the final draft of the constitution complied with the
+* 34
+* 34
+* $$34$$
+* guiding principles.
+* Nature of Certification: This certification was a final and binding process. The court examined both the form (procedure) and the substance of the document.
+* First Certification Judgment: The first draft submitted for certification was rejected by the Constitutional Court because it failed to meet the required substantive standards.
+* Second Certification Judgment: A revised draft was subsequently submitted and then accepted in the second certification judgment.
+* Guiding Force: The
+* 34
+* 34
+* $$34$$
+* principles acted as the essential guiding force throughout the drafting and revision of the constitution.
+Key Constitutional Features and Philosophical Shifts
+* From Sovereignty to Supremacy: A fundamental shift occurred where the country moved away from parliamentary sovereignty to constitutional supremacy, meaning all law and conduct must now comply with the constitution.
+* Judicial Bill of Rights: Both the Interim and Final constitutions included a judicial Bill of Rights, empowering the courts to protect fundamental human rights.
+* Addressing Injustice: The
+* 1996
+* 1996
+* $$1996$$
+* Constitution explicitly focuses on addressing the injustices of South Africa's past.
+* The Preamble: The preamble of the constitution is a significant component that sets the tone for reconciliation and the building of a new society.
+* Separation of Powers: The principle of the separation of powers is a core element present in both the
+* 1993
+* 1993
+* $$1993$$
+* and
+* 1996
+* 1996
+* $$1996$$
+* documents, ensuring a system of checks and balances between the legislature, executive, and judiciary.
+Study Recommendations and Academic Skills
+* Avoid Rote Learning: Students should avoid simply memorizing dates and forum names without understanding how they apply to the specific question asked.
+* Argumentation Skills: Success in this topic requires the ability to write with a clear through-line, avoiding repetitive points and ensuring the response flows logically.
+* Importance of Attendance: Insights provided during class lectures are critical for identifying the specific focus areas for assessments.
+* Supplementary Reading: Students are encouraged to go through all provided slides and supplement that information with the required readings to gain a deeper understanding of the constitutional transition.
+Transcript
+Download
+0:00
+Alright. So question four question four is your big question. It's looking for quite a lot to bring together, but to focus on one specific core thing being the two stage constitutional process or the two stage transition to democracy. And so in this kind of question, I am looking for two things. Of course, I need you to show that you understand the work, that you know the work, and you know all the different facts that are applicable, which we will go into.
+0:36
+But I also need to see coherent argumentation that it flows and makes sense, that you're not just repeating yourself a whole bunch of times, and that you're not spaghetti answering. And so for a couple of people, it was clear that you had gone and wrote learned the whole of the history of the drafting of the interim and final constitution, and you just wanted to let me know that you knew everything about the various minutes, the CODESA one, CODESA two, the multiparty forum, all of it. And that's great. I'm glad you know it, but you have to answer the question that is being asked. And I really wanted you guys to focus on the two stage constitutional process.
+1:22
+And so I would have given maybe a half mark, maybe depending on how you discussed maybe the multiparty negotiation forum or the collapse of Podessa and how that led into the two stage transition to democracy, but I wasn't gonna give you a lot of marks for that, if if any, depending on how you, set it out. Right? What I was really looking for was, an acknowledgment that the two stage transition was to bring us out of the apartheid regime into democracy, then a discussion about how it's a bit of a compromise that the stage one involved an unelected party, the multi you know, that that one, the negotiating forum, drafting the interim constitution and the various guiding principles that it was going to be a transition document temporary with a temporary government, then discussions about, what that would look like, that it became binding off in 1994, that it helped set up the elections, that it was drafted in the context of the 1983 constitution. I was looking for that it set up a newly appointed constitutional court, things like that. I was then looking for stage two, where I'm looking for you to acknowledge the, now elected body that would draft the final constitution being constitutional assembly, and that they were made up of the national assembly.
+3:02
+I was looking for the idea that, you know, the democratically elected, nature of them would bring legitimacy to the drafting process. I was looking for, then a discussion about how long they had to to draft the final constitution being two years, then a discussion on how they would do that, that it had to be in line with the 34 constitutional principles found in schedule four of the interim constitution. And then perhaps depending on how you set out your answer, a discussion of some of those principles, I wanted you to discuss that the newly established constitutional court would then have to certify the final document, and that the certification would be a final and binding, that I would give some marks, but not a huge amount, to the discussion of the actual certification. So certification one being rejected, that it was there for substance and procedure health not procedure, you know, the form of the constitution and then the substance that the first certification judgment was rejected. I was looking then second certification judgment accepted, and that the guiding principles were a a guiding force for the drafting of the constitution.
+4:33
+Other things in your answers that I looked for was a discussion of the 1993 constitution as a bridge, between apartheid and, democracy or, the 1996 constitution as addressing the injustices of our past and perhaps even, quoting the preamble, I was looking for discussions of aspects of both constitutions, including separation of powers being present, the move away from parliamentary sovereignty to constitutional supremacy, the judicial bill of rights, these little aspects. And so, again, it you got marks, of course, for the different things that you mentioned, but you also got impression marks based on how you wrote it, whether it was repetitive, did it make sense, did it follow a through line. Right? Because, of course, we are also marking based on your your skill for argumentation, for writing, for concisely explaining your opinions. Okay.
+5:46
+So that's what I was really looking for in question four. Yeah. Most people, again, did pretty well. Even those who clearly didn't know what the the not the just one. The two stage transition was managed to find Mark's hero there just based on what they heard in class, which really highlights the importance of class.
+6:10
+Of course, class is now over. So now I'd really like to highlight the importance of going through all of the slides and going through the readings, supplementing the slides with the readings to help your studying further.
