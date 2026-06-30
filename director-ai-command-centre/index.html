@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Dad's Director AI Command Centre</title>
+  <meta name="description" content="Claude AI toolkit for senior fashion retail directors — executive prompts, project oversight, decision-making, and communication tools." />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <!-- ════════════════════════════════════════════════════
+       BIRTHDAY PANEL
+  ════════════════════════════════════════════════════ -->
+  <div id="birthday-panel" role="dialog" aria-label="Happy Birthday">
+    <div class="birthday-inner">
+
+      <div class="birthday-decoration">✦ ✦ ✦</div>
+
+      <h1 class="birthday-title">Happy Birthday, Dad</h1>
+      <p class="birthday-subtitle">Senior Director · Fashion Retail · Force of Nature</p>
+
+      <div class="birthday-message">
+        <p>
+          This toolkit is a small thank-you for the very large life you've built — for yourself,
+          for our family, and for everyone who has had the privilege of working with you.
+          You didn't get to where you are by accident. You got here by thinking ahead,
+          doing the work, and never settling for less than excellent.
+        </p>
+        <p>
+          You've always had great instincts. Now you've got a <strong>command centre to match.</strong>
+          This is built for the way you think — direct, structured, no fluff — and for the
+          kind of work you do every day at the top of a major retail brand.
+        </p>
+        <p>
+          Happy Birthday. Here's to many more years of you being the sharpest person
+          in the room, and being generous enough not to make everyone else feel it.
+        </p>
+      </div>
+
+      <p class="puns-heading">✦ Claude Principles — the Dad Edition</p>
+
+      <ul class="pun-list">
+        <li class="pun-item">
+          <span class="pun-hack">"Be clear and specific"</span>
+          <span class="pun-text">Just like your feedback — never vague, always exactly what needs to be heard.</span>
+        </li>
+        <li class="pun-item">
+          <span class="pun-hack">"Think step-by-step"</span>
+          <span class="pun-text">You've been thinking steps ahead your whole career. Claude is just catching up.</span>
+        </li>
+        <li class="pun-item">
+          <span class="pun-hack">"Iterative refinement"</span>
+          <span class="pun-text">You didn't become a Senior Director in version one. Version after version, season after season.</span>
+        </li>
+        <li class="pun-item">
+          <span class="pun-hack">"Leverage your knowledge base"</span>
+          <span class="pun-text">Dad: the original knowledge base. Thirty years of retail, no search bar needed.</span>
+        </li>
+        <li class="pun-item">
+          <span class="pun-hack">"Contextual prompting"</span>
+          <span class="pun-text">You've always known the room before you walked in. Claude just learned that trick.</span>
+        </li>
+        <li class="pun-item">
+          <span class="pun-hack">"Chain-of-thought reasoning"</span>
+          <span class="pun-text">One buying decision links to stock, to margin, to markdown, to customer. You built that chain. Claude just draws it.</span>
+        </li>
+        <li class="pun-item">
+          <span class="pun-hack">"Set the constraints first"</span>
+          <span class="pun-text">Non-negotiables. You've had those since before AI was a word people said in meetings.</span>
+        </li>
+      </ul>
+
+      <button id="enter-btn" class="enter-btn">
+        Enter the Command Centre
+        <span>→</span>
+      </button>
+
+    </div>
+  </div>
+
+  <!-- ════════════════════════════════════════════════════
+       MAIN APP
+  ════════════════════════════════════════════════════ -->
+  <div id="main-app" role="main">
+
+    <!-- HEADER -->
+    <header class="app-header">
+      <div class="header-inner">
+        <div class="header-brand">
+          <h1>Dad's Director <span>AI Command Centre</span></h1>
+          <p>Claude systems for executive oversight, project control, and fashion retail leadership</p>
+        </div>
+        <div class="header-actions">
+          <a href="#" id="birthday-reopen" class="birthday-link">🎂 Birthday message</a>
+        </div>
+      </div>
+    </header>
+
+    <!-- HOW TO USE -->
+    <div class="howto-bar">
+      <div class="howto-inner">
+        <span class="howto-label">How to use</span>
+        <div class="howto-steps">
+          <div class="howto-step">
+            <span class="howto-num">1</span>
+            <span>Fill in your global variables below</span>
+          </div>
+          <div class="howto-step">
+            <span class="howto-num">2</span>
+            <span>Browse or search for a prompt</span>
+          </div>
+          <div class="howto-step">
+            <span class="howto-num">3</span>
+            <span>Click Copy — variables are auto-inserted</span>
+          </div>
+          <div class="howto-step">
+            <span class="howto-num">4</span>
+            <span>Paste into Claude &amp; replace <strong>[BRACKETED]</strong> placeholders</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- VARIABLES PANEL -->
+    <div class="variables-panel">
+      <div id="var-panel-inner" class="variables-panel-inner">
+        <p class="variables-heading">⚙ Global Variables — fill in once, applied on copy</p>
+        <p class="variables-note">
+          These values are substituted automatically when you click Copy. Leave any field blank and the original placeholder stays in the copied text.
+          Never paste confidential data into fields you're not comfortable having in your clipboard.
+        </p>
+        <div class="variables-grid" id="var-grid"></div>
+      </div>
+      <button id="var-toggle" class="variables-toggle" aria-label="Toggle variables panel">
+        <span class="variables-toggle-icon open">▲</span>
+        <span class="toggle-label">Hide Variables</span>
+      </button>
+    </div>
+
+    <!-- CONTENT -->
+    <div class="content-layout">
+
+      <!-- DESKTOP SIDEBAR -->
+      <nav class="sidebar" aria-label="Prompt categories">
+        <div class="sidebar-section">
+          <p class="sidebar-label">Search</p>
+          <div class="search-box">
+            <span class="search-icon">⌕</span>
+            <input type="search" id="search-input" placeholder="Search prompts…" aria-label="Search prompts" />
+          </div>
+        </div>
+        <div class="sidebar-section">
+          <p class="sidebar-label">Categories</p>
+          <ul class="nav-list" id="nav-list"></ul>
+        </div>
+      </nav>
+
+      <!-- PROMPT AREA -->
+      <section class="prompt-area">
+
+        <!-- Mobile nav strip (rendered by JS) -->
+        <div class="mobile-nav-strip" id="mobile-nav-strip" role="tablist" aria-label="Prompt categories"></div>
+
+        <div class="prompt-area-header">
+          <h2 class="category-title" id="category-title">All Prompts</h2>
+          <span class="result-count" id="result-count"></span>
+        </div>
+
+        <div id="no-results" class="no-results" style="display:none">
+          <div class="no-results-icon">⌕</div>
+          <p>No prompts match your search. Try a different keyword.</p>
+        </div>
+
+        <div class="prompt-grid" id="prompt-grid"></div>
+
+      </section>
+    </div>
+
+  </div><!-- /main-app -->
+
+  <script src="app.js"></script>
+</body>
+</html>
